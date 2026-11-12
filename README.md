@@ -18,7 +18,7 @@ I enjoy transforming ideas and designs into functional digital experiences, with
 **1. Global Federation of Yemeni Migrants**
 - A responsive front-end implementation for an international community platform.
 - Focused on UI/UX, semantic HTML, SEO, and responsive design.
-- [Live Website](https://fimy.nl/) | [Interactive Demo](https://union-eight-weld-vercel.app/) | [Case Study](https://github.com/MalekaTalal/Global-Federation-of-Yemeni-Migrants-case-study-and-UI)
+- [Live Website](https://fimy.nl/) | [Interactive Demo](https://union-eight-weld.vercel.app/) | [Case Study](https://github.com/MalekaTalal/Global-Federation-of-Yemeni-Migrants-case-study-and-UI)
 
 **2. GSAP Landing Page**
 - A modern landing page built using Vite, Tailwind CSS, and GSAP.
